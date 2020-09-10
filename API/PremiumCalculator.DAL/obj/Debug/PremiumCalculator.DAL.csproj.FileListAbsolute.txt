@@ -1,0 +1,12 @@
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\bin\Debug\PremiumCalculator.DAL.dll.config
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\bin\Debug\PremiumCalculator.DAL.dll
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\bin\Debug\PremiumCalculator.DAL.pdb
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\bin\Debug\EntityFramework.dll
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\bin\Debug\EntityFramework.xml
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.csproj.CopyComplete
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.dll
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.pdb
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.csprojAssemblyReference.cache

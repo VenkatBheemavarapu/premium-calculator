@@ -1,0 +1,15 @@
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\bin\Debug\PremiumCalculator.BAL.dll.config
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\bin\Debug\PremiumCalculator.BAL.dll
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\bin\Debug\PremiumCalculator.BAL.pdb
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\bin\Debug\EntityFramework.dll
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\bin\Debug\PremiumCalculator.DAL.dll
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\bin\Debug\PremiumCalculator.DAL.pdb
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\bin\Debug\PremiumCalculator.DAL.dll.config
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\bin\Debug\EntityFramework.xml
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\obj\Debug\PremiumCalculator.BAL.csprojAssemblyReference.cache
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\obj\Debug\PremiumCalculator.BAL.csproj.CoreCompileInputs.cache
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\obj\Debug\PremiumCalculator.BAL.csproj.CopyComplete
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\obj\Debug\PremiumCalculator.BAL.dll
+C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.BAL\obj\Debug\PremiumCalculator.BAL.pdb
