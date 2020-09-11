@@ -70,7 +70,8 @@ export class PremiumCalculatorComponent implements OnInit, AfterViewChecked {
       'pattern': 'Only Alphabets are allowed.'
     },
     'DOB':  {
-      'required': 'DOB is required.'
+      'required': 'DOB is required.',
+      'pattern': 'Enter a valid date'
     },
     'Age':  {
       'required': 'Age is required.',

@@ -10,3 +10,15 @@ C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.
 C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.dll
 C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.pdb
 C:\Projects\PremiumCalculator-master\PremiumCalculator-master\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.csprojAssemblyReference.cache
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\bin\Debug\PremiumCalculator.DAL.dll.config
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\bin\Debug\PremiumCalculator.DAL.dll
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\bin\Debug\PremiumCalculator.DAL.pdb
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\bin\Debug\EntityFramework.dll
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\bin\Debug\EntityFramework.xml
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.csprojAssemblyReference.cache
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.csproj.CoreCompileInputs.cache
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.csproj.CopyComplete
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.dll
+D:\MyProjects\premium-calculator\API\PremiumCalculator.DAL\obj\Debug\PremiumCalculator.DAL.pdb

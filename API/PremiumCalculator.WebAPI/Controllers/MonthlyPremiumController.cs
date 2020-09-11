@@ -60,5 +60,21 @@ namespace PremiumCalculator.WebAPI.Controllers
                 return ResponseMessage(Request.CreateResponse(HttpStatusCode.InternalServerError, ex));
             }
         }
+
+      
+        public string Index()
+        {
+           
+            try
+            {
+                return "API has started successfully";
+               
+            }
+            catch (Exception ex)
+            {
+                ErrorSignal.FromCurrentContext().Raise(ex);
+                return "There is an issue starting the API";
+            }
+        }
     }
 }

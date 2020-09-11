@@ -14,7 +14,7 @@
                     </div>
                     <div class="col-4">
                         <input type="text" class="form-control" [(ngModel)]="premiumParamModel.Name" name="Name"
-                            id="name" placeholder="Enter name" pattern="^[a-zA-Z]*" required>
+                            id="name" placeholder="Enter name" pattern="^[a-zA-Z ]*" required>
                         <div class="text-danger" *ngIf="formErrors.Name">
                             <small>{{formErrors.Name}}</small>
                         </div>
@@ -27,7 +27,7 @@
                     </div>
                     <div class="col-4">
                         <input type="number" class="form-control" [(ngModel)]="premiumParamModel.Age" name="Age"
-                            id="age" placeholder="Enter age" pattern="^[0-9]$|^[1-9][0-9]$|^(100)$" required>
+                            id="age" placeholder="Enter age" pattern="^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)\d{4}$" required>
                         <div class="text-danger" *ngIf="formErrors.Age">
                             <small> {{formErrors.Age}} </small>
                         </div>
@@ -40,7 +40,7 @@
                     </div>
                     <div class="col-4">
                         <input type="date" class="form-control" [(ngModel)]="premiumParamModel.DOB" name="DOB" id="dob"
-                            placeholder="Enter dob" required>
+                            placeholder="Enter dob" onkeydown="return false" required>
                         <div class="text-danger" *ngIf="formErrors.DOB">
                             <small> {{formErrors.DOB}} </small>
                         </div>
