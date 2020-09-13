@@ -27,7 +27,7 @@
                     </div>
                     <div class="col-4">
                         <input type="number" class="form-control" [(ngModel)]="premiumParamModel.Age" name="Age"
-                            id="age" placeholder="Enter age" pattern="^([0-2][0-9]|(3)[0-1])(\/)(((0)[0-9])|((1)[0-2]))(\/)\d{4}$" required>
+                            id="age" placeholder="Enter age" pattern="^[1-9]$|^[1-9][0-9]$|^[1-9][0-4][0-9]$" required>
                         <div class="text-danger" *ngIf="formErrors.Age">
                             <small> {{formErrors.Age}} </small>
                         </div>
